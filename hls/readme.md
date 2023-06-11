@@ -1,6 +1,3 @@
-<span style="font-size: 14px;">14px
-<span style="font-size: 16px;">16px
-<span style="font-size: 18px;">18px
-</span>
-</span>
-</span>
+# run behavior simulation sim_B
+# run HDL simulation basic sim_B_BASIC
+# run HDL simulation pipeline sim_B_UNROLL
